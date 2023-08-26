@@ -46,5 +46,5 @@ Please refer to the LICENSE in the repo.
 
 ## Screenshots of HTML/CSS file:
 
-![HTML Screenshot](assets/mod1ss1.png?raw=true "HTML Screenshot")
-![CSS Screenshot](assets/mod1ss2.png?raw=true "CSS Screenshot")
+![HTML Screenshot](Develop/assets/mod1ss1.png)
+![CSS Screenshot](Develop/assets/mod1ss2.png)
