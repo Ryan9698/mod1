@@ -61,7 +61,8 @@ p {
     font-size: 16px;
 }
 
-/* Consolidated identical classes and moved them to be in line with HTML file */
+/* Consolidated identical classes and moved them to be in line with HTML file. Learned that changing the class name
+    disrupts the links so I left the individual classes. */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -88,6 +89,18 @@ p {
     margin-left: 20px;
 }
 
+/* Consolidated elements and changed name to .content h2 for organization purposes */
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Consolidated image classes and changed to .content div img */
+
+.content div img {
+    max-height: 200px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -97,81 +110,28 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    
 }
 
-.benefit-lead {
+/* Consolidated like classes and changed name to .benefitFormat */
+.benefitFormat {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/* Simplified by consolidating and changing h3 elements */
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+/* Consolidated like classes and changed name to .brandImages */
 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.brandImages {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .footer {
