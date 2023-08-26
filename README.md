@@ -36,7 +36,7 @@ information to suit their purpose.
 ## Credits
 
 The files necessary for this project were pulled from The Coding Bootcamp's GitHub respository.
-https://github.com/coding-boot-camp/urban-octo-telegram
+[https://github.com/coding-boot-camp/urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ## License
 
@@ -44,7 +44,7 @@ Please refer to the LICENSE in the repo.
 
 ## Link
 
-https://ryan9698.github.io/mod1-challenge/
+[https://ryan9698.github.io/mod1-challenge/](https://ryan9698.github.io/mod1-challenge/)
 
 ## Screenshots of HTML/CSS file:
 
