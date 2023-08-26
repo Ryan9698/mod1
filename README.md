@@ -42,7 +42,9 @@ https://github.com/coding-boot-camp/urban-octo-telegram
 
 Please refer to the LICENSE in the repo.
 
-## Link:
+## Link
+
+https://ryan9698.github.io/mod1-challenge/
 
 ## Screenshots of HTML/CSS file:
 
