@@ -35,7 +35,8 @@ information to suit their purpose.
 
 ## Credits
 
-The files necessary for this project were pulled from The Coding Bootcamp's GitHub respository.
+The files necessary for this project were pulled from The Coding Bootcamp's GitHub respository. All source code came
+from these files. I only made edits and improvements to the original code.
 [https://github.com/coding-boot-camp/urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ## License
