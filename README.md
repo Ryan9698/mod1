@@ -1,4 +1,4 @@
-# Module 1 Challenge: Horeison Marketing (HTML and CSS editing)
+# Module 1 Challenge: Horiseon Marketing (HTML and CSS editing)
 
 ## Description
 
